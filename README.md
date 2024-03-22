@@ -17,7 +17,7 @@
 ## Introduction
 The objective of this project is to employ data analysis methodologies utilizing Python programming language.
 Through comprehensive analysis of the dataset, the project endeavors to yield actionable insights into the job market landscape. These insights aim to facilitate informed decision-making processes for job seekers, employers, and recruiters alike, thereby enhancing their strategic approaches to talent acquisition and career advancement initiatives.
-## PROJECT OBJECTIVE
+## PROJECT OBJECTIVES
 - ❑ Utilize Python libraries and tools to perform exploratory data analysis (EDA) on the collected job data.
 - ❑ Identify trends, patterns, and insights related to the different technology jobs.
 - ❑ Visualize the analysis results using appropriate charts, graphs, and visual representations.
