@@ -1,3 +1,17 @@
+<div align="center">
+
+[1]: https://github.com/oluwafemidan
+[2]: https://www.linkedin.com/in/oluwafemidanielajala/
+[3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
+[4]: https://twitter.com/ajala14055
+
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/47591faf-5a1f-4798-8971-703579c7664f)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/70c883a0-6868-41d2-b7a7-a9da630d8a72)][2]
+[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/376410a0-8dc1-4aa2-93ed-e634d771c16e)][3]
+[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/473ce843-cf23-486c-93db-fe7098f7d594)][4]
+
+</div>
+
 # Job Post Analysis
 
 ## Introduction
@@ -8,7 +22,7 @@ Through comprehensive analysis of the dataset, the project endeavors to yield ac
 - ❑ Identify trends, patterns, and insights related to the different technology jobs.
 - ❑ Visualize the analysis results using appropriate charts, graphs, and visual representations.
 
-# <div align="center">Job Post Analysis </div>
+## <div align="center">Job Post Analysis </div>
 <div align="center"><img src ="https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/db6df6d5-e982-4f8f-a159-acbcf4fd5bc4"></div>
 
  ##  Key Insights 
@@ -51,3 +65,43 @@ full-time job postings reign supreme. This observation suggests a strong overall
 - Emphasize data skills: Clearly outline data-related requirements and responsibilities in job descriptions to attract qualified candidates.
 - Utilize employer websites: Leverage your website as a recruitment platform and maintain updated job postings.
 - Offer diverse employment options: Consider offering part-time and contract roles alongside full-time positions to cater to different preferences.
+
+### Feedback
+
+If you have any feedback, please reach out at ajalaoluwafemidaniel@gmail.com
+
+
+### 🚀 About Me
+#### Hi, I'm OLuwafemi! 👋
+I am an AI Enthusiast and Data science & ML practitioner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]: https://github.com/oluwafemidan
+[2]: https://www.linkedin.com/in/oluwafemidanielajala/
+[3]: https://public.tableau.com/app/profile/oluwafemi.daniel/vizzes
+[4]: https://twitter.com/ajala14055
+
+[![GitHub](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/47591faf-5a1f-4798-8971-703579c7664f)][1]
+[![LinkedIn](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/70c883a0-6868-41d2-b7a7-a9da630d8a72)][2]
+[![tableau](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/376410a0-8dc1-4aa2-93ed-e634d771c16e)][3]
+[![X](https://github.com/oluwafemidan/Fraud_Detection_Predictive/assets/146761013/473ce843-cf23-486c-93db-fe7098f7d594)][4]
+
